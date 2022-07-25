@@ -1,0 +1,1 @@
+val map = mapOf<String, String>("Apple" to "Green", "Banana" to "Yellow", "Strawberry" to "Red")
