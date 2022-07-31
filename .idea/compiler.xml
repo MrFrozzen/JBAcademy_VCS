@@ -2,6 +2,17 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="17">
+      <module name="JBAcademy_VCS.Topics-Map-FizzBuzz.main" target="16" />
+      <module name="JBAcademy_VCS.Topics-Map-Map_with_buildMap.main" target="16" />
+      <module name="JBAcademy_VCS.Topics-Map-Theory.main" target="16" />
+      <module name="JBAcademy_VCS.Topics-The_main___function-Theory.main" target="16" />
+      <module name="JBAcademy_VCS.Topics-The_main___function-Using_arguments.main" target="16" />
+      <module name="JBAcademy_VCS.util.main" target="16" />
+      <module name="JBAcademy_VCS.Version_Control_System-task-build-classes-kotlin.main" target="16" />
+      <module name="JBAcademy_VCS.Version_Control_System-task-build-reports-tests.main" target="16" />
+      <module name="JBAcademy_VCS.Version_Control_System-task-build-test-results.main" target="16" />
+      <module name="JBAcademy_VCS.Version_Control_System-task-build-tmp.main" target="16" />
+      <module name="JBAcademy_VCS.Version_Control_System-task.main" target="16" />
       <module name="Version_Control_System.Topics-Map-FizzBuzz.main" target="11" />
       <module name="Version_Control_System.Topics-Map-Map_with_buildMap.main" target="11" />
       <module name="Version_Control_System.Topics-Map-Theory.main" target="11" />
